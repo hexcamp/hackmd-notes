@@ -1,0 +1,50 @@
+# Welcome to Hex.Camp
+
+**!!Under construction!!**
+
+## What is it?
+
+* a collection of ideas
+* core idea: Hexagons!
+  * allow everybody to share information by placing things on a map
+  * uses Uber's [H3](https://www.uber.com/en-CA/blog/h3/) system for subdividing the world into hexagons
+  * any hexagon can contain a website or data
+  * hexagons can be "owned" by individual users or communities of users
+  * global hierarchy of communities
+* swarms!!
+  * peer-to-peer collaborative hosting using WebRTC swarms
+  * no servers! hardly anything runs in the cloud. very cheap
+  * users can contribute hosting resources by running software on their machines at home
+  * web sites and data are syncable between neighbouring users  in the swarm using technology from the [IPFS project](https://ipfs.tech/)
+* community-driven reputation and moderation system
+  * geographically localized user accounts using [AT Protocol](https://atproto.com/) federation
+  * collaborative funding of infrastructure (most users pay nothing)
+* web-based "[community modules](https://hackmd.io/omnX7l8aSPmyqEJbh5SPag)" provide interactivity
+  * open source
+  * users have choice 
+  * run in a privacy "sandbox"
+    * can only communicate with neighbours in the "swarm"
+    * cannot communicate outside the sandbox (no advertising trackers)
+
+## Potential uses
+
+* geographically local information
+  * mapping 
+  * archiving websites
+  * curating
+  * search engines
+  * local business
+  * community organizations
+    * artists
+    * gardening
+    * charities 
+  * government / municipalities
+
+## Things to look at
+
+* [Photos around the world map](https://2kgrv5ga2i.hex.camp/)
+* [Demos on a map](https://wkgrvqgfl4.hex.camp/)
+
+## Original document
+
+* https://hackmd.io/pwU71T8cRpWystNPcSIo5w

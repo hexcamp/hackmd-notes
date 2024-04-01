@@ -42,9 +42,11 @@
 
 ## Things to look at
 
-* [Photos around the world map](https://2kgrv5ga2i.hex.camp/)
-* [Demos on a map](https://wkgrvqgfl4.hex.camp/)
+* Maps
+  * [Photos around the world](https://2kgrv5ga2i.hex.camp/)
+  * [Demos](https://wkgrvqgfl4.hex.camp/)
 
-## Original document
+## Source document
 
-* https://hackmd.io/pwU71T8cRpWystNPcSIo5w
+* [HackMD](https://hackmd.io/pwU71T8cRpWystNPcSIo5w)
+* [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/welcome-to-hex-camp.md)

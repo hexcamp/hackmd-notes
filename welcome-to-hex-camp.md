@@ -53,7 +53,7 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 
 ## Tools
 
-* [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. )
+* [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. the ID for uxirkffr.hex.camp is "uxirkffr")
 
 ## Source document
 

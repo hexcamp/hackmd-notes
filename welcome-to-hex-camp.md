@@ -1,5 +1,8 @@
 # Welcome to Hex.Camp
 
+Part of the "Local Wide Web" ... a place for websites that are built for your local community. 
+
+
 **!!Under construction!!**
 
 ## What is it?
@@ -25,6 +28,8 @@
   * run in a privacy "sandbox"
     * can only communicate with neighbours in the "swarm"
     * cannot communicate outside the sandbox (no advertising trackers)
+* "fungible" infrastructure
+  * people participating in a community can provide needed infrastructure, eg. IPFS pinning, by running software on their computers at home without having to invest a lot of time doing system administration tasks 
 
 ## Potential uses
 
@@ -45,6 +50,10 @@
 * Maps
   * [Photos around the world](https://2kgrv5ga2i.hex.camp/)
   * [Demos](https://wkgrvqgfl4.hex.camp/)
+
+## Tools
+
+* [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. )
 
 ## Source document
 

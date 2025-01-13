@@ -6,7 +6,7 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 
 * Hexagons!
   * allow everybody to share information by placing things on a map
-  * uses Uber's [H3](https://www.uber.com/en-CA/blog/h3/) system for subdividing the world into hexagons
+  * uses Uber's [H3](https://h3geo.org/) system for subdividing the world into hexagons
   * any hexagon can contain a website or data
   * hexagons can be "owned" by individual users or communities of users
   * core services are familiar web building blocks:

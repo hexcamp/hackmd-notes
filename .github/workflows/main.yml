@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - run: mkdir -p docs
-      - run: welcome-to-hex-camp.md docs/index.md
+      - run: cp welcome-to-hex-camp.md docs/index.md
 
       - name: Build site with mkdocs
         uses: Tiryoh/actions-mkdocs@v0

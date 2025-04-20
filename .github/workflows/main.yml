@@ -45,3 +45,4 @@ jobs:
           cluster-user: ${{ secrets.CLUSTER_USER }}
           cluster-password: ${{ secrets.CLUSTER_PASSWORD }}
           github-token: ${{ github.token }}
+          pin-name: "${{repo-name}}-${{commit-sha-short}}-cluster"

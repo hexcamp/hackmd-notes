@@ -34,6 +34,8 @@ jobs:
           storacha-proof: ${{ secrets.STORACHA_PROOF }}
           github-token: ${{ github.token }}
 
+      - run: rm -rf /home/runner/.ipfs
+
       - uses: ipfs/ipfs-deploy-action@v1
         name: Deploy to Hex.Camp IPFS Cluster
         id: deploy_cluster

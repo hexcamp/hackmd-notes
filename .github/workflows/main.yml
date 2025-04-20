@@ -11,7 +11,7 @@ on:
   pull_request:
 
 jobs:
-  build-and-deploy-to-storacha:
+  build-and-deploy:
     runs-on: ubuntu-latest
     outputs: # This exposes the CID output of the action to the rest of the workflow
       cid: ${{ steps.deploy.outputs.cid }}
@@ -26,10 +26,20 @@ jobs:
         uses: Tiryoh/actions-mkdocs@v0
 
       - uses: ipfs/ipfs-deploy-action@v1
-        name: Deploy to IPFS
+        name: Deploy to Storacha
         id: deploy
         with:
           path-to-deploy: site
           storacha-key: ${{ secrets.STORACHA_KEY }}
           storacha-proof: ${{ secrets.STORACHA_PROOF }}
+          github-token: ${{ github.token }}
+
+      - uses: ipfs/ipfs-deploy-action@v1
+        name: Deploy to Hex.Camp IPFS Cluster
+        id: deploy
+        with:
+          path-to-deploy: site
+          cluster-url: ${{ secrets.CLUSTER_URL }}
+          cluster-user: ${{ secrets.CLUSTER_USER }}
+          cluster-password: ${{ secrets.CLUSTER_PASSWORD }}
           github-token: ${{ github.token }}

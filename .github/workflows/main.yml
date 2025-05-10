@@ -11,7 +11,7 @@ on:
   pull_request:
 
 jobs:
-  build-and-deploy-storacha:
+  build-and-deploy-storacha-and-ipfs-cluster:
     runs-on: ubuntu-latest
     outputs: # This exposes the CID output of the action to the rest of the workflow
       cid: ${{ steps.deploy.outputs.cid }}
@@ -32,27 +32,6 @@ jobs:
           path-to-deploy: site
           storacha-key: ${{ secrets.STORACHA_KEY }}
           storacha-proof: ${{ secrets.STORACHA_PROOF }}
-          github-token: ${{ github.token }}
-
-  build-and-deploy-hexcamp:
-    runs-on: ubuntu-latest
-    outputs: # This exposes the CID output of the action to the rest of the workflow
-      cid: ${{ steps.deploy.outputs.cid }}
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - run: mkdir -p docs
-      - run: cp welcome-to-hex-camp.md docs/index.md
-
-      - name: Build site with mkdocs
-        uses: Tiryoh/actions-mkdocs@v0
-
-      - uses: ipfs/ipfs-deploy-action@v1
-        name: Deploy to Hex.Camp IPFS Cluster
-        id: deploy_cluster
-        with:
-          path-to-deploy: site
           cluster-url: ${{ secrets.CLUSTER_URL }}
           cluster-user: ${{ secrets.CLUSTER_USER }}
           cluster-password: ${{ secrets.CLUSTER_PASSWORD }}

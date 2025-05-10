@@ -35,4 +35,4 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 * [HackMD](https://hackmd.io/pwU71T8cRpWystNPcSIo5w)
 * [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/welcome-to-hex-camp.md)
 
-Publish-to: [uxirkffr.hex.camp](https://6kgvdnw3nwza.seahex.org/)
+Publish-to: [6kgvdnw3nwza.seahex.org](https://6kgvdnw3nwza.seahex.org/)

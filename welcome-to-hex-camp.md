@@ -22,15 +22,21 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
   * [Photos around Victoria](https://2kgrv5ga2i.vichex.ca/)
   * Archived websites:
     * [Compost Education Centre](https://6kgrvlcuqdaq.vichex.ca/) 
+    * [the fifty fifty](https://6kgrvlbmy3wq.vichex.ca/)
   
 ## Coming soon
 
-* Vancouver, Canada: vanhex.ca
 * Seattle, USA: seahex.org
+* Vancouver, Canada: vanhex.ca
+* ... more cities
+* Rest of the world:
+  * Americas: americas.peerhex.org
+  * Europe, Middle East, Africe: emea.peerhex.org
+  * Asia: asia.peerhex.org
 
 ## Tools
 
-* [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.test.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. the ID for uxirkffr.hex.camp is "uxirkffr")
+* [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.test.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. the ID for 6kgvdnw3nwza.seahex.org is "6kgvdnw3nwza")
 
 ## Source document
 

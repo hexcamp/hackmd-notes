@@ -20,6 +20,8 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 
 * Victoria, Canada: vichex.ca
   * [Photos around Victoria](https://2kgrv5ga2i.vichex.ca/)
+  * Archived websites:
+    * [Compost Education Centre](https://6kgrvlcuqdaq.vichex.ca/) 
   
 ## Coming soon
 

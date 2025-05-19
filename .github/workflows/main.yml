@@ -24,6 +24,11 @@ jobs:
         with:
           configfile: "mkdocs-hexcamp-welcome.yml"
 
+      - name: Build vichex-welcome
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-vichex-welcome.yml"
+
       - uses: ipfs/ipfs-deploy-action@v1
         name: Deploy to Storacha
         id: deploy_storacha

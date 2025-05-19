@@ -19,11 +19,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - run: mkdir -p docs
+      - run: mkdir -p docs-welcome-to-hex-camp
       - run: cp welcome-to-hex-camp.md docs/index.md
 
       - name: Build site with mkdocs
         uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "hexcamp-welcome/mkdocs.yml"
 
       - uses: ipfs/ipfs-deploy-action@v1
         name: Deploy to Storacha

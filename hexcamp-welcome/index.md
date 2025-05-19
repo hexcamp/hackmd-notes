@@ -20,9 +20,7 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 
 * Victoria, Canada: vichex.ca
   * [Photos around Victoria](https://2kgrv5ga2i.vichex.ca/)
-  * Archived websites:
-    * [Compost Education Centre](https://6kgrvlcuqdaq.vichex.ca/) 
-    * [the fifty fifty](https://6kgrvlbmy3wq.vichex.ca/)
+  * [Welcome Page](https://6kgrvlbslccq.vichex.ca/)
   
 ## Coming soon
 
@@ -41,6 +39,6 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 ## Source document
 
 * [HackMD](https://hackmd.io/pwU71T8cRpWystNPcSIo5w)
-* [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/welcome-to-hex-camp.md)
+* [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/hexcamp-welcome/index.md)
 
 Publish-to: [6kgvdnw3nwza.seahex.org](https://6kgvdnw3nwza.seahex.org/)

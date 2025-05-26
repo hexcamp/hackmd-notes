@@ -9,6 +9,8 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
     * [Compost Education Centre](https://6kgrvlcuqdaq.vichex.ca/) 
     * [the fifty fifty](https://6kgrvlbmy3wq.vichex.ca/)
     * [Venues from LiveVictoria.com](https://6kgrvlfnfeya.vichex.ca/)
+  * Archived Wikipedia pages:
+    * [Victoria](https://6kgrwaaaaaaa.vichex.ca/) 
 
 ## Source document
 

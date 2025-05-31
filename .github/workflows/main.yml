@@ -30,8 +30,8 @@ jobs:
           configfile: "mkdocs-vichex-welcome.yml"
 
       - uses: ipfs/ipfs-deploy-action@v1
-        name: Deploy to Storacha
-        id: deploy_storacha
+        name: Deploy to Storacha and IPFS
+        id: deploy
         with:
           path-to-deploy: site
           storacha-key: ${{ secrets.STORACHA_KEY }}
@@ -40,3 +40,6 @@ jobs:
           cluster-user: ${{ secrets.CLUSTER_USER }}
           cluster-password: ${{ secrets.CLUSTER_PASSWORD }}
           github-token: ${{ github.token }}
+
+      - name: Call hackmd-updater API with CID
+        run: curl -X POST https://6kgv3nw3nw2q.seahex.org/publish/${{ steps.deploy.outputs.cid }}

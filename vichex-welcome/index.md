@@ -14,7 +14,7 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
 
 ## Publishing test
 
-* test5
+* test6
 
 ## Source document
 

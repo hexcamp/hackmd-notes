@@ -29,6 +29,11 @@ jobs:
         with:
           configfile: "mkdocs-vichex-welcome.yml"
 
+      - name: Build vichex-arts-map
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-vichex-arts-map.yml"
+
       - name: List dirs
         run: ls -l site/*
 

@@ -47,8 +47,14 @@ jobs:
       - name: Check dns trace
         run: dig +trace 6kgv3nw3nw2q.seahex.org
 
+      - name: Check dns trace after CNAME
+        run: dig +trace 5.6.6.6.6.6.6.6.6.6.6.6.5.2.3.20.h3.seahex.org.
+
       - name: Check dns
         run: dig 6kgv3nw3nw2q.seahex.org
+
+      - name: Test ping
+        run: ping -c 1 6kgv3nw3nw2q.seahex.org
 
       - name: Call hackmd-updater API with CID
         run: curl -X POST https://6kgv3nw3nw2q.seahex.org/publish/${{ steps.deploy.outputs.cid }}

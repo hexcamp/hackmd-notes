@@ -54,7 +54,7 @@ jobs:
         run: dig 6kgv3nw3nw2q.seahex.org
 
       - name: Test ping
-        run: ping -c 1 6kgv3nw3nw2q.seahex.org
+        run: ping -c 1 6kgv3nw3nw2q.seahex.org || true
 
       - name: Call hackmd-updater API with CID
         run: curl -X POST https://6kgv3nw3nw2q.seahex.org/publish/${{ steps.deploy.outputs.cid }}

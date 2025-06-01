@@ -2,6 +2,10 @@
 
 A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada.
 
+# Portals
+
+* [Victoria Arts Map](https://6kgrvqaaaaaq.vichex.ca/)
+
 # Demo Sites
 
   * [Photos around Victoria](https://2kgrv5ga2i.vichex.ca/)

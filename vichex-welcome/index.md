@@ -16,10 +16,6 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
   * Archived Wikipedia pages:
     * [Victoria](https://6kgrwaaaaaaa.vichex.ca/) 
 
-## Publishing test
-
-* test21
-
 ## Source document
 
 * [HackMD](https://hackmd.io/6FkLrVrdRXqrJAC8vfmhOw)

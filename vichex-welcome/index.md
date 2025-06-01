@@ -1,4 +1,4 @@
-# VicHex.ca
+# Welcome to VicHex.ca
 
 A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada.
 
@@ -14,7 +14,7 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
 
 ## Publishing test
 
-* test13
+* test14
 
 ## Source document
 

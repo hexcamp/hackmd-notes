@@ -41,8 +41,10 @@ jobs:
           cluster-password: ${{ secrets.CLUSTER_PASSWORD }}
           github-token: ${{ github.token }}
 
-      - name: Check dns
+      - name: Check dns trace
         run: dig +trace 6kgv3nw3nw2q.seahex.org
+
+      - name: Check dns
         run: dig 6kgv3nw3nw2q.seahex.org
 
       - name: Call hackmd-updater API with CID

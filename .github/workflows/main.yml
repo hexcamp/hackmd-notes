@@ -29,6 +29,9 @@ jobs:
         with:
           configfile: "mkdocs-vichex-welcome.yml"
 
+      - name: Remove timestamps
+        run: perl -pi -e 's/^Build Date UTC.*//' site/*/index.html
+
       - uses: ipfs/ipfs-deploy-action@v1
         name: Deploy to Storacha and IPFS
         id: deploy

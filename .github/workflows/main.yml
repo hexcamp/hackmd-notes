@@ -35,6 +35,9 @@ jobs:
       - name: Remove timestamps
         run: sudo perl -pi -e 's/^Build Date UTC.*//' site/*/index.html
 
+      - name: Remove compressed sitemap.xml.gz files
+        run: rm -f site/*/sitemap.xml.gz
+
       - uses: ipfs/ipfs-deploy-action@v1
         name: Deploy to Storacha and IPFS
         id: deploy

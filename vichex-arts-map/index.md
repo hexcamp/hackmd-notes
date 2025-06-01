@@ -1,5 +1,6 @@
 # Victoria Arts Map
 
+* [Arts Victoria](https://artsvictoria.ca/)
 * [Art Gallery of Greater Victoria](https://aggv.ca/)
 
 ## Source document

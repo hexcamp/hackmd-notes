@@ -18,19 +18,19 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 
 ## Active Communities
 
-* Victoria, Canada: vichex.ca
-  * [Photos around Victoria](https://2kgrv5ga2i.vichex.ca/)
-  * [Welcome Page](https://6kgrvlbslccq.vichex.ca/)
-  
-## Coming soon
-
-* Seattle, USA: seahex.org
-* Vancouver, Canada: vanhex.ca
-* ... more cities
-* Rest of the world:
-  * Americas: americas.peerhex.org
-  * Europe, Middle East, Africe: emea.peerhex.org
-  * Asia: asia.peerhex.org
+* Americas
+    * Canada
+        * British Columbia 
+            * Victoria: [vichex.ca](https://vichex.ca/)
+            * Vancouver: vanhex.ca (Coming soon)
+    * USA
+        * Washington
+            * Seattle: seahex.org (Coming soon)
+    * Everywhere else: americas.peerhex.org (Coming soon)
+* Europe, Middle East, Africa
+    * emea.peerhex.org (Coming soon)
+* Asia
+    * asia.peerhex.org (Coming soon)
 
 ## Tools
 

@@ -34,6 +34,11 @@ jobs:
         with:
           configfile: "mkdocs-vichex-arts-map.yml"
 
+      - name: Build hackmd-publishing-test-page
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-hackmd-publishing-test-page.yml"
+
       - name: List dirs
         run: ls -l site/*
 

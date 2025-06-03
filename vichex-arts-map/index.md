@@ -7,10 +7,6 @@
 
 * [Welcome Page](https://6kgrvlbslccq.vichex.ca/)
 
-## Publish Testing
-
-* test4
-
 ## Source document
 
 * [HackMD](https://hackmd.io/Fi7MHTzQQPOYVLvmxhyp_g)

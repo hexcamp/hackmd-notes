@@ -38,8 +38,8 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
 
 ## Development Info
 
-* https://github.com/hexcamp
-* https://bsky.app/profile/jimpick.com (for occasional posts about development)
+* [HexCamp on GitHub](https://github.com/hexcamp)
+* [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
 * [Publishing Test Page](https://6kgvhnw3nw3a.seahex.org/)
 
 ## Source document

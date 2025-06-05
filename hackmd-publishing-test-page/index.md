@@ -6,6 +6,12 @@ Hello Bluesky!
 
 -> [Back to Welcome Page](https://6kgvdnw3nwza.seahex.org/)
 
+## Test commits
+
+Update the document below to force a build and deploy...
+
+* test1
+
 ## Source document
 
 * [HackMD](https://hackmd.io/jyIv93WeRjKAOJh4gGY1sg)

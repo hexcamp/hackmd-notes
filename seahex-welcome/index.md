@@ -2,6 +2,8 @@
 
 A [Hex.Camp](https://hex.camp/) Community for Seattle.
 
+(under construction, check back in a bit)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/qGchh3quSAGgpWT83f-_bA)

@@ -39,6 +39,11 @@ jobs:
         with:
           configfile: "mkdocs-hackmd-publishing-test-page.yml"
 
+      - name: Build seahex-welcome
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-seahex-welcome.yml"
+
       - name: List dirs
         run: ls -l site/*
 

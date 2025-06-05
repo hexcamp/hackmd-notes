@@ -25,8 +25,8 @@ Part of the "Local Wide Web" ... a place for websites that are built for your lo
             * Vancouver: vanhex.ca (Coming soon)
     * USA
         * Washington
-            * Seattle: seahex.org (Coming soon)
-    * Everywhere else: americas.peerhex.org (Coming soon)
+            * Seattle: [seahex.org](https://seahex.org/))
+    * Elsewhere: americas.peerhex.org (Coming soon)
 * Europe, Middle East, Africa
     * emea.peerhex.org (Coming soon)
 * Asia

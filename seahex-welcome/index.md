@@ -4,6 +4,10 @@ A [Hex.Camp](https://hex.camp/) Community for Seattle.
 
 (under construction, check back in a bit)
 
+## Demos
+
+* [Archived Web Page: Wikipedia - Seattle](https://6kgvtnw3nw2q.seahex.org/)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/qGchh3quSAGgpWT83f-_bA)

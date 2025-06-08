@@ -44,6 +44,11 @@ jobs:
         with:
           configfile: "mkdocs-seahex-welcome.yml"
 
+      - name: Build vanhex-welcome
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-vanhex-welcome.yml"
+
       - name: List dirs
         run: ls -l site/*
 

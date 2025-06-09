@@ -2,10 +2,9 @@
 
 A [Hex.Camp](https://hex.camp/) Community for Vancouver, British Columbia, Canada.
 
+## Demos
 
-# Demo Sites
-
-* Coming soon
+* [Archived Web Page: Wikipedia - Vancouver](https://6kg6ruaaaaaa.vanhex.ca/)
 
 ## Source document
 

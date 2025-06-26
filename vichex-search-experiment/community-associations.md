@@ -83,6 +83,13 @@
 * [Colwood](https://www.colwood.ca/community-services/neighbourhoods)
 * [Langford](https://lras23.com/)
 
-# Common Crawl Archives Map
+## Common Crawl Archives Map
 
 * [Map of VicHex.ca cells containing Common Crawl Archives for Community Assocations](https://6kgruaaeaaaa.vichex.ca/)
+
+## Source document
+
+* [HackMD](https://hackmd.io/DNOh6r5gQFuY_KCUITpM7Q)
+* [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/vichex-search-experiment/community-associations/index.md)
+
+Publish-to: [6kgruqaeaaaa.vichex.ca/community-associations/](https://6kgruqaeaaaa.vichex.ca/community-associations/)

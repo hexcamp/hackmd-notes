@@ -37,6 +37,10 @@ cdxt --crawl 1 --limit 50 --verbose warc 'secure.pickleballcanada.org/club/victo
 * [marginalia-search.com](https://marginalia-search.com/)
 * [GitHub: MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch)
 
+## Navigation
+
+* [Back to VicHex.ca Welcome Page](https://6kgrvlbslccq.vichex.ca/)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/uYdFzJq2Te6yH8pSas9LsQ)

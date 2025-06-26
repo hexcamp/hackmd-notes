@@ -4,7 +4,7 @@
 
 ### Indexes
 
-* https://www.victoria.ca/community-culture/neighbourhoods
+* [https://www.victoria.ca/community-culture/neighbourhoods](https://www.victoria.ca/community-culture/neighbourhoods)
 
 ### Neighbourhoods
 
@@ -39,7 +39,7 @@
 
 ### Indexes
 
-* https://www.saanich.ca/EN/main/community/community-associations.html
+* [https://www.saanich.ca/EN/main/community/community-associations.html](https://www.saanich.ca/EN/main/community/community-associations.html)
 
 ### Neighbourhoods
 

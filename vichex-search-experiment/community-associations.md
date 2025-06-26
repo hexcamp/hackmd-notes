@@ -87,6 +87,10 @@
 
 * [Map of VicHex.ca cells containing Common Crawl Archives for Community Assocations](https://6kgruaaeaaaa.vichex.ca/)
 
+## Navigation
+
+* [Back to Search Experiment](https://6kgruqaeaaaa.vichex.ca/)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/DNOh6r5gQFuY_KCUITpM7Q)

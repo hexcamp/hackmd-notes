@@ -37,4 +37,4 @@ cdxt --crawl 1 --limit 50 --verbose warc 'secure.pickleballcanada.org/club/victo
 * [HackMD](https://hackmd.io/uYdFzJq2Te6yH8pSas9LsQ)
 * [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/vichex-search-experiment/index.md)
 
-Publish-to: [6kgruqaeaaaa.vichex.ca](https://6kgruqaeaaaa.vanhex.ca/)
+Publish-to: [6kgruqaeaaaa.vichex.ca](https://6kgruqaeaaaa.vichex.ca/)

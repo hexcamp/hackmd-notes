@@ -6,6 +6,10 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
 
 * [Victoria Arts Map](https://6kgrvqaaaaaq.vichex.ca/)
 
+# Search Experiment
+
+* [VicHex.ca Search Experiment](https://6kgruqaeaaaa.vichex.ca/)
+
 # Demo Sites
 
   * [Photos around Victoria](https://2kgrv5ga2i.vichex.ca/)
@@ -21,6 +25,6 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
 * [HackMD](https://hackmd.io/6FkLrVrdRXqrJAC8vfmhOw)
 * [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/vichex-welcome/index.md)
 
-Publish-to: [6kgrvlbslccq.vichex.ca](https://6kgrvlbslccq.vichex.ca/)
+Publish-to: [6kgrvlbslccq.vichex.ca](https://6kgrvlbslccq.vichex.ca6kg6rsaaaaaa.vanhex.ca/)
 
 

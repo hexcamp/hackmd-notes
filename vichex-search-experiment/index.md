@@ -3,7 +3,7 @@ Search Research
 
 ## Common Crawl
 
-* https://github.com/cocrawler/cdx_toolkit/
+* [GitHub: cocrawler/cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/)
 
 ```
 cdxt --crawl 1 --limit 50 --verbose warc 'secure.pickleballcanada.org/club/victoria-regional-pickleball-association/*'

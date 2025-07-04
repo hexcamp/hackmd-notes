@@ -1,6 +1,8 @@
 # Welcome to Hex.Camp
 
-Part of the "Local Wide Web" ... a place for websites that are built for your local community. 
+Hex.Camp an open source project that is building software tools and web hosting infrastructure for individuals to enrich the local communities they physically live in.
+
+Using traditional web tools, we built a unique system of organizing web sites based on geography and a tiling hexagon grid that enables communities to collaborate and self-host under a non-profit model.
 
 ## What is it?
 

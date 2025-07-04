@@ -2,13 +2,23 @@
 
 A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada.
 
-# Portals
+Still a work-in-progress... we'll have some more introductory info soon.
 
-* [Victoria Arts Map](https://6kgrvqaaaaaq.vichex.ca/)
+# Upcoming Events
+
+We'll be at the following events:
+
+* [DWeb Camp Cascadia](https://dwebyvr.org/camp/) - August 8-10, Salt Spring Island
 
 # Search Experiment
 
 * [VicHex.ca Search Experiment](https://6kgruqaeaaaa.vichex.ca/)
+
+# Portals
+
+Specialized sites containing directories of links to local websites of interest.
+
+* [VicHex.ca Arts Portal](https://6kgrvqaaaaaq.vichex.ca/)
 
 # Demo Sites
 

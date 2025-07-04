@@ -10,7 +10,7 @@
 
 * can build a search index from [collected WARC files](https://6kgruqaeaaaa.vichex.ca/community-associations/)
 * only working on Jim's laptop ... next step is to deploy to vichex.ca
-* upstream S3 bucket containing starter files is missing, replaced with publicly available files (I will upload my files somewhere)
+* upstream S3 bucket containing starter files is missing, replaced with publicly available files: [Download data here](https://6kgrvaaeaaaa.vichex.ca/)
 
 ## Source document
 

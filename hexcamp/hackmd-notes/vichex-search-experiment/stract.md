@@ -1,3 +1,0 @@
-# Stract
-
-Placeholder content

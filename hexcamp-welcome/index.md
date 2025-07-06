@@ -2,7 +2,7 @@
 
 Hex.Camp is an open source project that is building software tools and web hosting infrastructure for individuals and groups to enrich their local communities.
 
-Using traditional web tools, we built a unique system of organizing web sites based on geography and a tiling hexagon grid that enables people to collaborate and self-host under a non-profit model.
+It is built around a unique system for geographically organizing web sites, where each site is one of trillions of hexagons arranged on the world map. Combined with traditional and cutting edge web tools, we can build great places for communities to collaborate, share and archive. A non-profit governance model means that each community can be independent and self-reliant.
 
 ## What is it?
 

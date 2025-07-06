@@ -1,8 +1,8 @@
 # Welcome to Hex.Camp
 
-Hex.Camp an open source project that is building software tools and web hosting infrastructure for individuals to enrich the local communities they physically live in.
+Hex.Camp is an open source project that is building software tools and web hosting infrastructure for individuals and groups to enrich their local communities.
 
-Using traditional web tools, we built a unique system of organizing web sites based on geography and a tiling hexagon grid that enables communities to collaborate and self-host under a non-profit model.
+Using traditional web tools, we built a unique system of organizing web sites based on geography and a tiling hexagon grid that enables people to collaborate and self-host under a non-profit model.
 
 ## What is it?
 

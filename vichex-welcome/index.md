@@ -12,6 +12,8 @@ We'll be at the following events:
 
 # Search Experiment
 
+We are experimenting with techniques for creating small search engines for local websites. Check out the progress here:
+
 * [VicHex.ca Search Experiment](https://6kgruqaeaaaa.vichex.ca/)
 
 # Portals

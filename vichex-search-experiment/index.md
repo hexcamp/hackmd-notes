@@ -1,7 +1,7 @@
 Search Research
 ===============
 
-## Demo: Community Assocations Search
+## Demo: Community Associations Search
 
 Using the open source [Stract](https://github.com/StractOrg/stract) search engine, we built our own small search engine using [Common Crawl](https://commoncrawl.org/) web crawl data from a list of [community-association websites](/community-associations) in Victoria and Saanich.
 

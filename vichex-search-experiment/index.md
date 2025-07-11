@@ -7,6 +7,7 @@ Using the open source [Stract](https://github.com/StractOrg/stract) search engin
 
 * Try it out here: [https://6kgrwaaeaaaa.vichex.ca/](https://6kgrwaaeaaaa.vichex.ca/)
 
+Some sample searches: "gorge", "festival", "harm reduction", "council"
 
 ## Open Source Search Engines
 

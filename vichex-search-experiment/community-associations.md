@@ -87,6 +87,21 @@
 
 * [Map of VicHex.ca cells containing Common Crawl Archives for Community Assocations](https://6kgruaaeaaaa.vichex.ca/)
 
+## Extracting data from Common Crawl
+
+We use the following tool to get recent crawl results for the various websites. Note that some websites have no crawl data due to robots.txt settings.
+
+* [GitHub: cocrawler/cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/)
+
+```
+cdxt --crawl 1 --limit 50 --verbose warc 'secure.pickleballcanada.org/club/victoria-regional-pickleball-association/*'
+```
+
+A GitHub repo with the scripts is here:
+
+* [https://github.com/hexcamp/vichex-community-associations](https://github.com/hexcamp/vichex-community-associations)
+
+
 ## Source document
 
 * [HackMD](https://hackmd.io/DNOh6r5gQFuY_KCUITpM7Q)

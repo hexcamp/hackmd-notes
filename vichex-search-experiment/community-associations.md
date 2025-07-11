@@ -2,6 +2,12 @@
 
 ## Victoria
 
+### Search Engine Demo
+
+Using the open source [Stract](https://github.com/StractOrg/stract) search engine, we built our own small search engine using [Common Crawl](https://commoncrawl.org/) web crawl data from a list of community association websites (on this page) in Victoria and Saanich.
+
+* Try it out here: [https://6kgrwaaeaaaa.vichex.ca/](https://6kgrwaaeaaaa.vichex.ca/)
+
 ### Indexes
 
 * [https://www.victoria.ca/community-culture/neighbourhoods](https://www.victoria.ca/community-culture/neighbourhoods)

@@ -50,7 +50,19 @@ We'll be at the following events:
 * [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
 * [Publishing Test Page](https://6kgvhnw3nw3a.seahex.org/)
 
-# Source document
+# Funding
+
+Hex.Camp is entirely self-funded at the moment. [Jim Pick](https://jimpick.com/), the primary developer, works on it when he has time between freelance consulting projects. Feel free to inquire about availability or collaboration opportunities.
+
+If you can help us find some grants or other funding, we can spend more time on pushing the project forward. Fundraising is a new thing for us, so any help is appreciated!
+
+We have set up a [GitHub Sponsors page](https://github.com/sponsors/hexcamp) for small donations.
+
+# Contact Info
+
+Please reach out to our [small team](https://whimsicalmachines.com/) with your ideas or feedback! The primary developer, Jim is always at [@jimpick](https://bsky.app/profile/jimpick.com), either on BlueSky or via email at <a href="mailto:jim@jimpick.com">jim@jimpick.com</a>. Or schedule a meeting with Jim at [Calendly](https://calendly.com/jjpick23).
+
+# Source Document
 
 * [HackMD](https://hackmd.io/pwU71T8cRpWystNPcSIo5w)
 * [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/hexcamp-welcome/index.md)

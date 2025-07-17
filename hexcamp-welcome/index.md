@@ -4,7 +4,13 @@ The Hex.Camp open source project is building software tools and web hosting infr
 
 The core idea is a unique system for geographically organizing web sites, where each site is one of trillions of hexagons arranged on the world map. Combined with traditional and cutting edge web tools, communities can build online places to communicate, collaborate and archive. A non-profit governance model means that each community can be independent and self-reliant.
 
-## What is it?
+# Upcoming Events
+
+We'll be at the following events:
+
+* [DWeb Camp Cascadia](https://dwebyvr.org/camp/) - August 8-10, Salt Spring Island
+
+# What is it?
 
 * Hexagons!
   * allow everybody to share information by placing things on a map
@@ -18,7 +24,7 @@ The core idea is a unique system for geographically organizing web sites, where 
   * super cheap to run
   * communities can run their own subsets of the global network
 
-## Active Communities
+# Active Communities
 
 * Americas
     * Canada
@@ -34,17 +40,17 @@ The core idea is a unique system for geographically organizing web sites, where 
 * Asia
     * asia.peerhex.org (Coming soon)
 
-## Tools
+# Tools
 
 * [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.test.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. the ID for 6kgvdnw3nwza.seahex.org is "6kgvdnw3nwza")
 
-## Development Info
+# Development Info
 
 * [HexCamp on GitHub](https://github.com/hexcamp)
 * [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
 * [Publishing Test Page](https://6kgvhnw3nw3a.seahex.org/)
 
-## Source document
+# Source document
 
 * [HackMD](https://hackmd.io/pwU71T8cRpWystNPcSIo5w)
 * [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/hexcamp-welcome/index.md)

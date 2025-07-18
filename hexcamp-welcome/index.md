@@ -18,6 +18,11 @@ The core idea is a unique system for geographically organizing web sites, where 
   * super cheap to run
   * communities can run their own subsets of the global network
 
+# Development Blog
+
+* [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
+  * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
+
 # Upcoming Events
 
 We'll be at the following events:

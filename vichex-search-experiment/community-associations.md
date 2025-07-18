@@ -10,6 +10,8 @@ Using the open source [Stract](https://github.com/StractOrg/stract) search engin
 
 Some sample searches: "gorge", "festival", "harm reduction", "council"
 
+Read the [blog post](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/) about how we made it!
+
 ### Indexes
 
 * [https://www.victoria.ca/community-culture/neighbourhoods](https://www.victoria.ca/community-culture/neighbourhoods)

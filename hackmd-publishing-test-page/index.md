@@ -11,6 +11,7 @@ Hello Bluesky!
 Update the document below to force a build and deploy...
 
 * test1
+* test2
 
 ## Source document
 

@@ -10,6 +10,10 @@ We'll be at the following events:
 
 * [DWeb Camp Cascadia](https://dwebyvr.org/camp/) - August 8-10, Salt Spring Island
 
+# News Feed
+
+We have a [live updated news feed](/news) of the latest media reports for the Greater Victoria area.
+
 # Search Experiment
 
 We are experimenting with techniques for creating small search engines for local websites. Check out the progress here:

@@ -18,10 +18,14 @@ The core idea is a unique system for geographically organizing web sites, where 
   * super cheap to run
   * communities can run their own subsets of the global network
 
-# Development Blog
+# Development Info
 
-* [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
+- [Hex.Camp Dev Portal](https://6kgru5w3nwza.vichex.ca/)
+- [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
   * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
+- [HexCamp on GitHub](https://github.com/hexcamp)
+- [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
+
 
 # Upcoming Events
 
@@ -49,11 +53,6 @@ We'll be at the following events:
 
 * [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.test.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. the ID for 6kgvdnw3nwza.seahex.org is "6kgvdnw3nwza")
 
-# Development Info
-
-* [HexCamp on GitHub](https://github.com/hexcamp)
-* [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
-* [Publishing Test Page](https://6kgvhnw3nw3a.seahex.org/)
 
 # Funding
 

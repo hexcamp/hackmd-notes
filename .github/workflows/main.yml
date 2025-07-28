@@ -24,6 +24,11 @@ jobs:
         with:
           configfile: "mkdocs-hexcamp-welcome.yml"
 
+      - name: Build hexcamp-dev-portal
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-hexcamp-dev-portal.yml"
+
       - name: Build vichex-welcome
         uses: Tiryoh/actions-mkdocs@v0
         with:

@@ -36,14 +36,14 @@ Each community is defined by the following:
     * make feature requests to the central Hex.Camp developers
     * "incubating" communities might use people from outside the community in order to bootstrap
     * the [New_ Public](https://newpublic.org/) project has a similar concept with their [Neighborhood Steward Fellowship](https://newpublic.org/fellowship) and [Launchpad program](https://localstewards.newpublic.org/) ... we'll be watching what they do
-    * because communities are local in nature, it is possible to meet up regularily in a local setting like a coffee shop
+    * because communities are local in nature, it is possible to meet up regularly in a local setting like a coffee shop
 
 ## Community Resources
 
 - a git repo to contain hexagon reservations and allocations
     * some hexagons are reserved for use by the global Hex.Camp project 
-    * https://github.com/hexcamp/hexcamp-community-vichex
-    * https://github.com/hexcamp/hexcamp-community-seahex
+    * [GitHub: hexcamp/hexcamp-community-vichex](https://github.com/hexcamp/hexcamp-community-vichex)
+    * [GitHub: hexcamp/hexcamp-community-seahex](https://github.com/hexcamp/hexcamp-community-seahex)
 - a landing page
     * [VicHex.ca](https://vichex.ca/) - GitHub: [vichex-landing-page](https://github.com/hexcamp/vichex-landing-page)
 

@@ -5,7 +5,7 @@ This website contains documentation and resources for Hex.Camp development.
 # Development Blog
 
 - [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
-  * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
+    * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
 
 # Development Info
 

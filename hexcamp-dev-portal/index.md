@@ -4,7 +4,7 @@ This website contains documentation and resources for Hex.Camp development.
 
 # Development Blog
 
-* [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
+- [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
   * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
 
 # Development Info
@@ -12,6 +12,12 @@ This website contains documentation and resources for Hex.Camp development.
 * [HexCamp on GitHub](https://github.com/hexcamp)
 * [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
 * [Publishing Test Page](https://6kgvhnw3nw3a.seahex.org/)
+
+# Creating New Communities
+
+Hex.Camp is made of communities. Here's how to create them:
+
+* [Community Creation Guide](communities/)
 
 # Navigation
 

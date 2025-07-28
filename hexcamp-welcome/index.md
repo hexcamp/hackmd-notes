@@ -7,22 +7,22 @@ The core idea is a unique system for geographically organizing web sites, where 
 # What is it?
 
 * Hexagons!
-  * allow everybody to share information by placing things on a map
-  * uses Uber's [H3](https://h3geo.org/) system for subdividing the world into hexagons
-  * any hexagon can contain a website or data
-  * hexagons can be "owned" by individual users or communities of users
-  * core services are familiar web building blocks:
-    * DNS
-    * SSL
-    * HTTP
-  * super cheap to run
-  * communities can run their own subsets of the global network
+    * allow everybody to share information by placing things on a map
+    * uses Uber's [H3](https://h3geo.org/) system for subdividing the world into hexagons
+    * any hexagon can contain a website or data
+    * hexagons can be "owned" by individual users or communities of users
+    * core services are familiar web building blocks:
+        * DNS
+        * SSL
+        * HTTP
+    * super cheap to run
+    * communities can run their own subsets of the global network
 
 # Development Info
 
 - [Hex.Camp Dev Portal](https://6kgru5w3nwza.vichex.ca/)
 - [Hex.Camp Dev Blog](https://6kgrunw3nwza.vichex.ca/)
-  * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
+    * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
 - [HexCamp on GitHub](https://github.com/hexcamp)
 - [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
 

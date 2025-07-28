@@ -6,7 +6,7 @@ Hardware and cloud infrastructure is designed to be shared between multiple comm
 
 Each community is defined by the following:
 
-- a domain name, eg. [VicHex.ca](https://vichex.ca]), [SeaHex.org](https://seahex.org), [VanHex.org](https://vanhex.ca])
+- a domain name, eg. [VicHex.ca](https://vichex.ca), [SeaHex.org](https://seahex.org), [VanHex.org](https://vanhex.ca)
   * we want each community to have it's own domain name
   * ideally short and memorable for local people. If a geographic top level domain is available (eg. ".ca", ".us"), it would be good to use that. Domain names with "Hex" in them are usually available for purchase, but it is not necessary to have "Hex" in the name.
   * initially, as the project is bootstrapping, the domain names will be held by the central project. We'd like to eventually transfer ownership of the domains to trusted entities within each community. New communities are welcome to acquire their own domain names, but they should be held by some sort of community-base "trustee" to prevent a situation where the owner of the domain takes the community hostage.
@@ -66,3 +66,10 @@ Each community is defined by the following:
 - fundraising for sustainability and endowment fund
 - financial accounting
 - reporting
+
+# Source Document
+
+* [HackMD](https://hackmd.io/VUyQTJFRQbGbzqnwgeoykw)
+* [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/hexcamp-dev-portal/communities/index.md)
+
+Publish-to: [6kgru5w3nwza.vichex.ca/communities/](https://6kgru5w3nwza.vichex.ca/communities/)

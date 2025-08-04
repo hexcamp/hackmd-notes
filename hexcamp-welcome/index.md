@@ -52,6 +52,7 @@ We'll be at the following events:
 # Tools
 
 * [Encoded Hexagon ID Lookup Tool](https://6l22glmvqj2a.test.hex.camp/) - use this tool to figure out where an "encoded hexagon ID" is on the map (eg. the ID for 6kgvdnw3nwza.seahex.org is "6kgvdnw3nwza")
+* Node.js command line tool: [hexcamp-tool](https://www.npmjs.com/package/hexcamp-tool) - contains useful subcommands for converting hexagon IDs
 
 
 # Funding

@@ -43,7 +43,7 @@ We'll be at the following events:
     * USA
         * Washington
             * Seattle: [seahex.org](https://seahex.org/)
-    * Elsewhere: [americas.peerhex.org](https://seahex.org/)
+    * Elsewhere: [americas.peerhex.org](https://americas.peerhex.org/)
 * Europe, Middle East, Africa
     * emea.peerhex.org (Coming soon)
 * Asia

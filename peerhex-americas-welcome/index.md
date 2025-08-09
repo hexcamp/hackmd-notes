@@ -1,4 +1,4 @@
-# Welcome to americas.peerhex.org
+# Welcome to Americas.PeerHex.org
 
 A [Hex.Camp](https://hex.camp/) Community for North and South America.
 

@@ -40,6 +40,7 @@ We'll be at the following events:
         * British Columbia 
             * Victoria: [vichex.ca](https://vichex.ca/)
             * Vancouver: [vanhex.ca](https://vanhex.ca/)
+            * Vancouver Island: [islandehex.ca](https://islandhex.ca/)
     * USA
         * Washington
             * Seattle: [seahex.org](https://seahex.org/)

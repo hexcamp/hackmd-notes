@@ -2,10 +2,9 @@
 
 A [Hex.Camp](https://hex.camp/) Community for Vancouver Island, British Columbia, Canada and the surrounding islands.
 
-Under construction! This is really new - being built at [DWeb Camp Cascadia](https://dwebyvr.org/camp/)...
+This is a community covering a wide area. We'd love to incubate services for smaller communities under the umbrella of this community.
 
-
-
+Also check out [VicHex.ca](https://vichex.ca/) for the Victoria area.
 
 
 ## Source document

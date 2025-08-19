@@ -27,12 +27,6 @@ The core idea is a unique system for geographically organizing web sites, where 
 - [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
 
 
-# Upcoming Events
-
-We'll be at the following events:
-
-* [DWeb Camp Cascadia](https://dwebyvr.org/camp/) - August 8-10, Salt Spring Island
-
 # Active Communities
 
 * Americas

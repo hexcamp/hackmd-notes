@@ -4,12 +4,6 @@ A [Hex.Camp](https://hex.camp/) Community for Victoria, British Columbia, Canada
 
 Still a work-in-progress... we'll have some more introductory info soon.
 
-# Upcoming Events
-
-We'll be at the following events:
-
-* [DWeb Camp Cascadia](https://dwebyvr.org/camp/) - August 8-10, Salt Spring Island
-
 # News Feed
 
 We have a [live updated news feed](/news) of the latest media reports for the Greater Victoria area.
@@ -41,6 +35,6 @@ Specialized sites containing directories of links to local websites of interest.
 * [HackMD](https://hackmd.io/6FkLrVrdRXqrJAC8vfmhOw)
 * [GitHub](https://github.com/hexcamp/hackmd-notes/blob/main/vichex-welcome/index.md)
 
-Publish-to: [6kgrvlbslccq.vichex.ca](https://6kgrvlbslccq.vichex.ca6kg6rsaaaaaa.vanhex.ca/)
+Publish-to: [6kgrvlbslccq.vichex.ca](https://6kgrvlbslccq.vichex.ca/)
 
 

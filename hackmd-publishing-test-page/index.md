@@ -12,6 +12,8 @@ Update the document below to force a build and deploy...
 
 * test1
 * test2
+* test3
+* test4
 
 ## Source document
 

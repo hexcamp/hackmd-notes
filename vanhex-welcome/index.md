@@ -5,6 +5,7 @@ A [Hex.Camp](https://hex.camp/) Community for Vancouver, British Columbia, Canad
 ## Demos
 
 * [Archived Web Page: Wikipedia - Vancouver](https://6kg6ruaaaaaa.vanhex.ca/)
+* [Jupyter Notebooks: OpenStreetMap Data](https://6kg6rweynwea.vanhex.ca/lab/index.html?path=overpass-metro-vancouver.ipynb)
 
 ## Source document
 

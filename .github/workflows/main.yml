@@ -83,8 +83,8 @@ jobs:
         id: deploy
         with:
           path-to-deploy: site
-          storacha-key: ${{ secrets.STORACHA_KEY }}
-          storacha-proof: ${{ secrets.STORACHA_PROOF }}
+          #storacha-key: ${{ secrets.STORACHA_KEY }}
+          #storacha-proof: ${{ secrets.STORACHA_PROOF }}
           cluster-url: ${{ secrets.CLUSTER_URL }}
           cluster-user: ${{ secrets.CLUSTER_USER }}
           cluster-password: ${{ secrets.CLUSTER_PASSWORD }}

@@ -2,6 +2,10 @@
 
 A [Hex.Camp](https://hex.camp/) Community for Vancouver, British Columbia, Canada.
 
+# News Feed
+
+We have a [live updated news feed](/news) of the latest media reports for the Metro Vancouver area.
+
 ## Demos
 
 * [Archived Web Page: Wikipedia - Vancouver](https://6kg6ruaaaaaa.vanhex.ca/)

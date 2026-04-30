@@ -5,4 +5,5 @@
 ></iframe>
 
 * [Follow Feed on BlueSky](https://bsky.app/profile/vichex.ca/feed/victoria-news)
+* [RSS Feed](https://www.graze.social/feeds/10255/rss.xml)
 * [Graze.Social Feed Definition](https://www.graze.social/feeds/10255)

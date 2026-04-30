@@ -5,6 +5,7 @@
 ></iframe>
 
 * [Follow Feed on BlueSky](https://bsky.app/profile/vanhex.ca/feed/van-bc-news)
+* [RSS Feed](https://www.graze.social/feeds/33985/rss.xml)
 * [Graze.Social Feed Definition](https://www.graze.social/feeds/33985)
 * [Semble: VanHex News Organizations](https://semble.so/profile/jimpick.com/collections/3mk4okgpemc2o)
 * [Semble: VanHex National News Organizations](https://semble.so/profile/jimpick.com/collections/3mk4pk5sv4x2p)

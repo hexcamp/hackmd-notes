@@ -59,6 +59,11 @@ jobs:
         with:
           configfile: "mkdocs-vanhex-welcome.yml"
 
+      - name: Build vanhex-newsroom
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          configfile: "mkdocs-vanhex-newsroom.yml"
+
       - name: Build islandhex-welcome
         uses: Tiryoh/actions-mkdocs@v0
         with:

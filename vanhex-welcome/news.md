@@ -9,3 +9,4 @@
 * [Graze.Social Feed Definition](https://www.graze.social/feeds/33985)
 * [Semble: VanHex News Organizations](https://semble.so/profile/jimpick.com/collections/3mk4okgpemc2o)
 * [Semble: VanHex National News Organizations](https://semble.so/profile/jimpick.com/collections/3mk4pk5sv4x2p)
+* [VanHex Newsroom Experiments](https://6kg6rqiaaaaa.vanhex.ca/)

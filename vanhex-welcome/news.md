@@ -1,7 +1,7 @@
 # Metro Vancouver News Feed
 
 <iframe style="width: 100%; height: 70vh;"
-  src="https://graze.social/feeds/embed/33985"
+  src="https://graze.social/feeds/embed/34212"
 ></iframe>
 
 * [Follow Feed on BlueSky](https://bsky.app/profile/vanhex.ca/feed/van-bc-news)

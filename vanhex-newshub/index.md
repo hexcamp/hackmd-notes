@@ -7,6 +7,10 @@ These are web site experiments that works with the articles from the [VanHex Met
 
 * [Simple scrolling list of articles](https://6kg6rsiaaaaa.vanhex.ca/)
 
+## Experiment #2
+
+* [Grid layout of articles (BBC Style)](https://6kg6ruiaaaaa.vanhex.ca/)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/4k4mmhveTzGJKHAMVagcZA)

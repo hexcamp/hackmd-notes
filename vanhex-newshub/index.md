@@ -15,9 +15,9 @@ These are web site experiments that works with the articles from the [VanHex Met
 
 * [Categorization of articles and sections](https://6kg6rwiaaaaa.vanhex.ca/)
 
-## Archiving
+## Web Archiving + Research
 
-* https://6kg6rxgncasq.vanhex.ca/
+* [Example of a sentencing article with related court document archives](https://6kg6rxgncasq.vanhex.ca/)
 
 ## Source document
 

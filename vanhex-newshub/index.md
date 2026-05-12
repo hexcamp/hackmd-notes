@@ -11,6 +11,10 @@ These are web site experiments that works with the articles from the [VanHex Met
 
 * [Grid layout of articles (BBC Style)](https://6kg6ruiaaaaa.vanhex.ca/)
 
+## Experiment #3
+
+* [Categorization of articles and sections](https://6kg6rwiaaaaa.vanhex.ca/)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/4k4mmhveTzGJKHAMVagcZA)

@@ -17,7 +17,7 @@ These are web site experiments that works with the articles from the [VanHex Met
 
 ## Web Archiving + Research
 
-* [Example of a sentencing article with related court document archives](https://6kg6rxgncasq.vanhex.ca/)
+* [Example of an article about a criminal sentencing with related court document archives](https://6kg6rxgncasq.vanhex.ca/)
 
 ## Source document
 

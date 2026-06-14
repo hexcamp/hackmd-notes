@@ -23,6 +23,10 @@ These are web site experiments that works with the articles from the [VanHex Met
 
 * [Example of an article about a criminal sentencing with related court document archives](https://6kg6rxgncasq.vanhex.ca/)
 
+## Archived News for Experiments
+
+* [https://6kg6r2iaaaaa.vanhex.ca/](https://6kg6r2iaaaaa.vanhex.ca/)
+
 ## Source document
 
 * [HackMD](https://hackmd.io/4k4mmhveTzGJKHAMVagcZA)

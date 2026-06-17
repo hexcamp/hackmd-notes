@@ -30,7 +30,7 @@ These are web site experiments that works with the articles from the [VanHex Met
 ## Jupyter Notebooks
 
 * [https://6kg6r4iaaaaa.vanhex.ca/](https://6kg6r4iaaaaa.vanhex.ca/)
-* https://github.com/hexcamp/vanhex-newshub-notebooks
+* [https://github.com/hexcamp/vanhex-newshub-notebooks](https://github.com/hexcamp/vanhex-newshub-notebooks)
 
 ## Source document
 

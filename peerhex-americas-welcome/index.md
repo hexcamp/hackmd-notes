@@ -8,7 +8,7 @@ Still a work-in-progress... we'll have some more introductory info soon.
 
 ### City-level Wikipedia Archive Pages
 
-* [Mexico City](https://6smvxbcanwaa.americas.peerhex.org/)
+* [Mexico City](https://6smvxbcanwaa.cdmxhex.org/) (cdmxhex.org)
 * [New York City](https://6kqqokeanwaa.americas.peerhex.org/)
 * [Los Angeles](https://6knb25lanwaa.americas.peerhex.org/)
 * [Toronto](https://6k43yrwanwaa.americas.peerhex.org/)

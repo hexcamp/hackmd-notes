@@ -23,60 +23,60 @@ jobs:
           sudo update-ca-certificates
         
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Build hexcamp-welcome
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-hexcamp-welcome.yml"
 
       - name: Build hexcamp-dev-portal
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-hexcamp-dev-portal.yml"
 
       - name: Build vichex-welcome
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-vichex-welcome.yml"
 
       - name: Build vichex-arts-map
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-vichex-arts-map.yml"
 
       - name: Build vichex-search-experiment
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-vichex-search-experiment.yml"
 
       - name: Build hackmd-publishing-test-page
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-hackmd-publishing-test-page.yml"
 
       - name: Build seahex-welcome
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-seahex-welcome.yml"
 
       - name: Build vanhex-welcome
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-vanhex-welcome.yml"
 
       - name: Build vanhex-newshub
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-vanhex-newshub.yml"
 
       - name: Build islandhex-welcome
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-islandhex-welcome.yml"
 
       - name: Build peerhex-americas-welcome
-        uses: Tiryoh/actions-mkdocs@v0
+        uses: Tiryoh/actions-mkdocs@v0.25.0
         with:
           configfile: "mkdocs-peerhex-americas-welcome.yml"
 

@@ -84,12 +84,10 @@ jobs:
         run: sudo rm -f site/*/sitemap.xml.gz
 
       - uses: ipfs/ipfs-deploy-action@v3.0.0
-        name: Deploy to Storacha and IPFS
+        name: Deploy to IPFS Cluster
         id: deploy
         with:
           path-to-deploy: site
-          #storacha-key: ${{ secrets.STORACHA_KEY }}
-          #storacha-proof: ${{ secrets.STORACHA_PROOF }}
           cluster-url: ${{ secrets.CLUSTER_URL }}
           cluster-user: ${{ secrets.CLUSTER_USER }}
           cluster-password: ${{ secrets.CLUSTER_PASSWORD }}

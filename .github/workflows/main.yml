@@ -16,6 +16,12 @@ jobs:
     outputs: # This exposes the CID output of the action to the rest of the workflow
       cid: ${{ steps.deploy.outputs.cid }}
     steps:
+      - name: Update Ubuntu System SSL Certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ca-certificates
+          sudo update-ca-certificates
+        
       - name: Checkout code
         uses: actions/checkout@v4
 

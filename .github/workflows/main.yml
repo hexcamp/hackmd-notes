@@ -115,7 +115,10 @@ jobs:
         run: |
           curl -w "DNS Lookup Time: %{time_namelookup}s\nTotal Time: %{time_total}s\n" -o /dev/null -s https://6kgv3nw3nw2q.seahex.org/ || true
 
-      - name: Test hackmd-updater API
+      - name: Test hackmd-updater API 1 unauthenticated
+        run: curl -v -i https://6kgv3nw3nw2q.seahex.org/ || true
+
+      - name: Test hackmd-updater API with password
         run: curl -v -i -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/ || true
 
       - name: Call hackmd-updater API with CID

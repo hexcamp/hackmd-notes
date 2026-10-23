@@ -11,7 +11,7 @@ on:
   pull_request:
 
 jobs:
-  build-and-deploy-storacha-and-ipfs-cluster:
+  build-and-deploy-ipfs-cluster:
     runs-on: ubuntu-latest
     outputs: # This exposes the CID output of the action to the rest of the workflow
       cid: ${{ steps.deploy.outputs.cid }}
@@ -106,6 +106,9 @@ jobs:
 
       - name: Test ping
         run: ping -c 1 6kgv3nw3nw2q.seahex.org || true
+
+      - name: Test hackmd-updater API
+        run: curl -i -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/
 
       - name: Call hackmd-updater API with CID
         run: curl -X POST -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/publish/${{ steps.deploy.outputs.cid }}

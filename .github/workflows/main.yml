@@ -12,7 +12,7 @@ on:
 
 jobs:
   build-and-deploy-ipfs-cluster:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     outputs: # This exposes the CID output of the action to the rest of the workflow
       cid: ${{ steps.deploy.outputs.cid }}
     steps:

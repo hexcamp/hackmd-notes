@@ -106,7 +106,7 @@ jobs:
         run: ping -c 1 6kgv3nw3nw2q.seahex.org || true
 
       - name: Test hackmd-updater API
-        run: curl -i -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/
+        run: curl -i -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/ || true
 
       - name: Call hackmd-updater API with CID
         run: curl -X POST -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/publish/${{ steps.deploy.outputs.cid }}

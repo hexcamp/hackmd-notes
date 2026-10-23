@@ -107,7 +107,7 @@ jobs:
 
       - name: Test hackmd-updater API DNS lookup using curl
         run: |
-          curl -w "DNS Lookup Time: %{time_namelookup}s\nTotal Time: %{time_total}s\n\" -o /dev/null -s https://6kgv3nw3nw2q.seahex.org/ || true
+          curl -w "DNS Lookup Time: %{time_namelookup}s\nTotal Time: %{time_total}s\n" -o /dev/null -s https://6kgv3nw3nw2q.seahex.org/ || true
 
       - name: Test hackmd-updater API
         run: curl -v -i -u admin:${{ secrets.HACKMD_UPDATER_PASSWORD }} https://6kgv3nw3nw2q.seahex.org/ || true

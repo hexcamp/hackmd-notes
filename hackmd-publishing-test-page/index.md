@@ -10,18 +10,8 @@ Hello Bluesky!
 
 Update the document below to force a build and deploy...
 
-* test13 - Oct 23
-* test14 - Oct 23
-* test15 - Oct 23
-* test16 - Oct 23
-* test17 - Oct 23
-* test18 - Oct 23
-* test19 - Oct 23
-* test20 - Oct 23
-* test21 - Oct 23
-* test22 - Oct 23
-* test23 - Oct 23
 * test24 - Oct 23
+* test25 - Oct 24
 
 ## Source document
 

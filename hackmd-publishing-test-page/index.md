@@ -13,6 +13,7 @@ Update the document below to force a build and deploy...
 * test24 - Oct 23
 * test25 - Oct 24
 * test26 - Nov 5
+* test27 - Nov 6
 
 ## Source document
 

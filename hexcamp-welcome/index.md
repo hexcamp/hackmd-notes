@@ -18,6 +18,29 @@ The core idea is a unique system for geographically organizing web sites, where 
     * super cheap to run
     * communities can run their own subsets of the global network
 
+# The Hex.Camp Book
+
+We are putting most of the documentation for the global project and open source software into the [Hex.Camp Book](https://6kg6ryaaaaaa.vanhex.ca/)
+
+# Active Communities
+
+Currently, all communities are in an "incubating" stage.
+
+* Americas
+    * Canada
+        * British Columbia 
+            * Vancouver: [vanhex.ca](https://vanhex.ca/)
+            * Victoria: [vichex.ca](https://vichex.ca/)
+            * Vancouver Island: [islandhex.ca](https://islandhex.ca/)
+    * USA
+        * Washington State
+            * Seattle: [seahex.org](https://seahex.org/)
+    * Elsewhere: [americas.peerhex.org](https://americas.peerhex.org/)
+* Europe, Middle East, Africa
+    * emea.peerhex.org (Coming soon)
+* Asia
+    * asia.peerhex.org (Coming soon)
+
 # Development Info
 
 - [Hex.Camp Dev Portal](https://6kgru5w3nwza.vichex.ca/)
@@ -25,24 +48,6 @@ The core idea is a unique system for geographically organizing web sites, where 
     * [Making a custom search engine using Common Crawl web archives and Stract](https://6kgrunw3nwza.vichex.ca/posts/2025-07-17-search-experiment/)
 - [HexCamp on GitHub](https://github.com/hexcamp)
 - [Bluesky: @jimpick.com](https://bsky.app/profile/jimpick.com) (for occasional posts about development)
-
-
-# Active Communities
-
-* Americas
-    * Canada
-        * British Columbia 
-            * Victoria: [vichex.ca](https://vichex.ca/)
-            * Vancouver: [vanhex.ca](https://vanhex.ca/)
-            * Vancouver Island: [islandhex.ca](https://islandhex.ca/)
-    * USA
-        * Washington
-            * Seattle: [seahex.org](https://seahex.org/)
-    * Elsewhere: [americas.peerhex.org](https://americas.peerhex.org/)
-* Europe, Middle East, Africa
-    * emea.peerhex.org (Coming soon)
-* Asia
-    * asia.peerhex.org (Coming soon)
 
 # Tools
 

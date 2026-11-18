@@ -14,6 +14,7 @@ Update the document below to force a build and deploy...
 * test36 - Nov 15
 * test37 - Nov 16
 * test38 - Nov 17
+* test39 - Nov 18
 
 ## Source document
 

@@ -22,9 +22,6 @@ jobs:
           sudo apt-get install -y ca-certificates
           sudo update-ca-certificates
 
-      - name: Fix MTU Network Issue
-        run: sudo ifconfig eth0 mtu 1400
-
       - name: Checkout code
         uses: actions/checkout@v7
 
